@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+.hero{
+    /* background: url('./asset/background.jpg'); */
+    background-size: 40%;
+    /* atas - kiri - bawah - kanan */
+    /* margin: 3rem 5rem 3rem 5rem; */
+    border-radius: 20px;
+    /* height: 14rem; */
+}
+
+
+.h1{
+    /* margin: 1rem 6rem; */
+    text-align: center;
+}
+
+.App{
+    /* display: flex;
+    justify-content: space-between;
+    margin: 0rem 4.5rem; */
+    background-color: #FFFFE0;
+}
